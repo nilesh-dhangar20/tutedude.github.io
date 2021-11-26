@@ -1,0 +1,231 @@
+body{
+    background-color:#e7dbfdb5;
+
+}
+@media only screen  and (max-width:600px){
+
+    .nav_bar{
+        background-color: white;
+    }
+    .nav_bar_logo img{
+      width: 100px;
+      height: 30px;
+    }
+    .nav_bar_login_button button{
+        text-transform: uppercase;
+        border-color: rgb(235, 46, 187);
+        border-radius: 4px;
+        color: rgb(235, 46, 187);
+    }
+    .nav_bar_signup_button button
+    {
+        text-transform: uppercase;
+        background-color:  #986ee6;
+        border-color: #986ee6;
+        border-radius: 4px;
+        color: white;
+    }
+    .nav_bar_bars{
+        color: #986ee6;
+    }
+
+   .header_div{
+       background-color: #a187cdb5;
+   }
+    .titile_box{
+        background-color: white;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        text-align: center;
+        color: #8f58f3;
+        
+       
+    }
+    .header_para{
+        color: rgb(110 15 86);
+      
+    }
+    .header_para h2{
+        text-transform: uppercase;
+    }
+    .header_para button{
+        text-transform: uppercase;
+        background-color: #8f58f3;
+        color: white;
+        font-weight: 400px;
+        border-color: #8f58f3;
+        border-radius: 5px;
+
+    }
+    .header_howitswork_button button{
+        background-color: white;
+        color:rgb(235, 46, 187);
+        border-color: rgb(235, 46, 187);
+        border-radius: 5px;
+        text-transform: capitalize;
+    }
+    .header_explore_program_button button
+    {
+      
+          text-transform: capitalize;
+          background-color:rgb(131, 11, 101);
+          border-color:rgb(131, 11, 101) ;
+          border-radius: 5px;
+          box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          color: white;
+          font-weight: bold;
+    }
+    
+/* know about tutedude */
+    .know_about_tutedude{
+        background-color: #932770;
+    }
+    .know_about_tutedude .card-title {
+    color: white;
+    }
+   
+    .know_about_tutedude  .card-body button{
+        width: 100px;
+        height: 100px;
+        border-radius: 20px;
+        background-color:rgb(214, 200, 214);
+        color: rgb(175, 12, 175);
+
+    }
+
+
+
+
+/* tutedude_receipe_success_heading */
+    .tutedude_receipe_success_heading{
+        background-color:  #932770;
+        box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        color: white;
+    }
+    .tutedude_receipe_success_heading h1{
+        text-transform: capitalize;
+    }
+    
+    .tutedude_receipe_success_steps img{
+        width: 30px;
+        height: 30px;
+        display: inline-block;
+    }
+    .tutedude_receipe_success_steps li{
+        list-style: none;
+    }
+
+/* reward card */
+.reward_card{
+    background-color: #8d66d4;
+}
+.reward_card a{
+    border: solid 1px;
+    background-color: white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+
+}
+
+
+
+
+
+    /* select your skills */
+    .select_your_skills_head{
+        background-color:  #932770;
+        box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        color: white;
+
+    }
+    .select_your_skills_dropdown_btn button
+    {
+           background-color: #f89fdc;
+           border-radius: 20px;
+         
+    }
+    .select_your_skills_dropdown_btn button:hover{
+        background-color: #932770;
+    }
+
+
+    /* course list */
+    .course_list img{
+        width: 100px;
+        height: 100px;
+    }
+
+
+    .courses_offer .card-body{
+       background-color: rgb(214, 200, 214);
+       border-radius: 15px;
+    }
+
+    .course_list_see_more_btn button{
+        background-color:purple;
+        color: white;
+        border-color: purple;
+        border-radius: 7px;
+    }
+
+
+    /* courses offer */
+    .courses_offer h5{
+        color: rgb(235, 51, 82);
+    }
+    .courses_offer a{
+             border-radius: 20px;
+             background-color:purple ;
+    }
+    .courses_offer .color_para{
+        color: purple;
+    }
+
+
+/* feedback */
+.feedback{
+    background-color: white;
+}
+.feedback_card{
+    border-radius: 5px;
+    border-color: #932770;
+}
+
+
+/* other courses */
+
+   /* query */
+   .search_query input
+   {
+       border-radius: 5px;
+      
+   }
+   .search_logo{
+       position: relative;
+     
+   }
+  
+
+
+
+
+    /* footer */
+    .footer{
+        background-color: black;
+        color: white;
+    }
+    .footer li{
+        list-style: none;
+    }
+    .footer li a{
+        text-decoration: none;
+        color: white;
+    }
+    .social_media_links a
+    {
+        margin-left: 5px;
+        margin-right: 5px;
+        
+    }
+   
+
+}
